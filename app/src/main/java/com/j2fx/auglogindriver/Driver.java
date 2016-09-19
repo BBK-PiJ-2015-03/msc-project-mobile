@@ -2,6 +2,7 @@ package com.j2fx.auglogindriver;
 
 /**
  * Created by J2FX on 10/08/16.
+ * driver class
  */
 public final class Driver {
     public String address;

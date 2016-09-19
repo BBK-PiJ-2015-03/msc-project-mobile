@@ -13,6 +13,9 @@ import android.widget.EditText;
 
 import com.firebase.client.Firebase;
 
+/**
+ * Login Activity
+ */
 public class LoginActivity extends AppCompatActivity {
 
     @Override

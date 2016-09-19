@@ -4,6 +4,7 @@ import java.text.DecimalFormat;
 
 /**
  * Created by J2FX on 12/08/16.
+ * Booking class
  */
 public class Booking {
     private static Booking booking = null;
